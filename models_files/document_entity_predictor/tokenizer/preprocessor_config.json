@@ -1,0 +1,13 @@
+{
+  "apply_ocr": false,
+  "do_resize": true,
+  "image_processor_type": "LayoutLMv2ImageProcessor",
+  "ocr_lang": null,
+  "processor_class": "LayoutLMv2Processor",
+  "resample": 2,
+  "size": {
+    "height": 224,
+    "width": 224
+  },
+  "tesseract_config": ""
+}

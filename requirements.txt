@@ -1,0 +1,8 @@
+easyocr==1.7.2
+fastapi==0.115.12
+opencv_python==4.10.0.84
+opencv_python_headless==4.11.0.86
+pydantic==2.11.4
+torch==2.7.0
+transformers==4.51.3
+uvicorn==0.34.2
